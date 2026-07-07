@@ -1,4 +1,4 @@
-# 🎀 Birthday Website for XYZ
+# 🎀 Birthday Wishes
 
 A beautifully crafted Apple-inspired birthday website featuring smooth scroll animations, elegant pink aesthetics, password protection, and immersive reveal effects designed to create a memorable birthday experience.
 
