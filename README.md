@@ -151,6 +151,6 @@ This project is designed to work seamlessly with GitHub Pages.
 
 ## 💗 Author
 
-Created by **Moin Shadab**
+Created by **Prajwal Stark**
 
 A lightweight, single-file project built to be easy to customize, easy to deploy, and memorable for someone special.
