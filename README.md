@@ -5,7 +5,7 @@ A beautifully crafted Apple-inspired birthday website featuring smooth scroll an
 ## 🌐 Live Demo
 
 <p align="center">
-  <a href="https://moin-shadab.github.io/girlfriend-friend-birthday-wish/" target="_blank">
+  <a href="https://prathibhav2.vercel.app" target="_blank">
     View Live Website →
   </a>
 </p>
